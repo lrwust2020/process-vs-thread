@@ -31,10 +31,10 @@ MultiProcess process=500 count=500 output=测试程序
 
 real	0m2.604s
 user	0m0.254s
-sys		0m0.622s
+sys	0m0.622s
 MultiThread thread=500 count=500 output=测试程序
 
 real	0m2.275s
 user	0m0.260s
-sys		0m0.475s
+sys	0m0.475s
 ```
