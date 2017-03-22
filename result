@@ -1,50 +1,50 @@
-MultiProcess process=500 count=500 output=测试程序
+MultiProcess process=1000 count=500 output=1KB
 
-real	0m2.604s
-user	0m0.254s
-sys	0m0.622s
-MultiThread thread=500 count=500 output=测试程序
+real	3m39.946s
+user	0m2.924s
+sys	0m7.358s
+MultiThread thread=1000 count=500 output=1KB
 
-real	0m2.275s
-user	0m0.260s
-sys	0m0.475s
-MultiProcess process=500 count=500 output=测试程序
+real	3m35.358s
+user	0m3.060s
+sys	0m6.978s
+MultiProcess process=1000 count=500 output=1KB
 
-real	0m2.377s
-user	0m0.280s
-sys	0m0.592s
-MultiThread thread=500 count=500 output=测试程序
+real	3m51.776s
+user	0m3.033s
+sys	0m7.370s
+MultiThread thread=1000 count=500 output=1KB
 
-real	0m2.263s
-user	0m0.276s
-sys	0m0.479s
-MultiProcess process=255 count=50 output=测试程序
+real	3m33.358s
+user	0m2.959s
+sys	0m7.194s
+MultiProcess process=1000 count=500 output=1KB
 
-real	0m0.321s
-user	0m0.013s
-sys	0m0.121s
-MultiThread thread=255 count=50 output=测试程序
+real	3m13.014s
+user	0m2.906s
+sys	0m7.065s
+MultiThread thread=1000 count=500 output=1KB
 
-real	0m0.118s
-user	0m0.015s
-sys	0m0.043s
-MultiProcess process=255 count=5000 output=测试程序
+real	3m19.832s
+user	0m3.083s
+sys	0m7.132s
+MultiProcess process=1000 count=500 output=1KB
 
-real	0m18.810s
-user	0m1.293s
-sys	0m2.163s
-MultiThread thread=255 count=5000 output=测试程序
+real	3m39.323s
+user	0m3.132s
+sys	0m7.556s
+MultiThread thread=1000 count=500 output=1KB
 
-real	0m17.526s
-user	0m1.414s
-sys	0m2.268s
-MultiProcess process=800 count=5000 output=测试程序
+real	3m41.358s
+user	0m3.370s
+sys	0m7.969s
+MultiProcess process=1000 count=500 output=1KB
 
-real	0m54.046s
-user	0m4.165s
-sys	0m6.700s
-MultiThread thread=800 count=5000 output=测试程序
+real	3m37.750s
+user	0m2.963s
+sys	0m7.469s
+MultiThread thread=1000 count=500 output=1KB
 
-real	0m54.584s
-user	0m4.248s
-sys	0m6.700s
+real	3m42.176s
+user	0m3.003s
+sys	0m7.416s
